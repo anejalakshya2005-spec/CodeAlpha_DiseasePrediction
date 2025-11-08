@@ -1,1 +1,1 @@
-# CodeAlpha_DiseasePrediction
+# CodeAlpha_PROJECT1
